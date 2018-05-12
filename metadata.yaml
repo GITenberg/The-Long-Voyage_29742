@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25187
     wikipedia: http://en.wikipedia.org/wiki/Carl_Richard_Jacobi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29742#The-Long-Voyage
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-08-20'
 gutenberg_type: Text
